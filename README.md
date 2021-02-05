@@ -69,9 +69,9 @@ make clean
 The order of the finite field can be changed.
 
 For that:
- - go to ./src/main.ccp 
+ - go to ```./src/main.ccp``` 
 
- - change the relevant variables in the test_ZZ_* methods
+ - change the relevant variables in the ```test_ZZ_*``` methods
  
  - compile
  
